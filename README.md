@@ -1,2 +1,2 @@
-# dastur
+f# dastur
 tahlil uvhun
